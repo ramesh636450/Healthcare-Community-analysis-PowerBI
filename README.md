@@ -1,1 +1,0 @@
-# Healthcare-Community-analysis-PowerBI
