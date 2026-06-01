@@ -1,28 +1,21 @@
-# Community Healthcare Data Analysis – Power BI
+# Healthcare Community Analysis — Power BI
 
-## Project Overview
-Developed an interactive Power BI dashboard to analyze healthcare, insurance, demographic, and respiratory health trends across multiple regions.
+## Overview
+Analyzed 10,000+ patient and demographic records to identify insurance trends,
+disease patterns, and claim approval rates using Power BI and Excel.
+
+## Problem Statement
+Healthcare operations lacked visibility into denial trends and insurance
+performance across patient demographics.
 
 ## Tools Used
-- Power BI
-- Excel
-- DAX
-- Power Query
+- Power BI (DAX, Power Query, KPI dashboards, slicers, drill-through)
+- Excel (data cleaning, pivot analysis)
 
-## Key Insights
-- Diabetic patients showed significantly higher BMI across all regions.
-- South region had the highest insurance coverage (36.13%).
-- Breathing difficulties affected 33.7% of patients.
-- Young adults had the lowest average income across regions.
-- West region showed the highest average income overall.
+## Key Findings
+- Identified 15–20% improvement opportunity in claim approval rates
+- Built interactive drill-through dashboards for admissions monitoring
+- Segmented patients by insurance type, age group, and disease category
 
-## Dashboard Features
-- KPI Monitoring
-- Region-wise Analysis
-- Insurance Coverage Analysis
-- Demographic Insights
-- Healthcare Trend Analysis
-- Interactive Visualizations and Filters
-
-## Business Impact
-Helped identify healthcare risk patterns, insurance coverage gaps, and demographic trends for better operational and healthcare decision-making.
+## How to Use
+Download the .pbix file and open in Power BI Desktop.
